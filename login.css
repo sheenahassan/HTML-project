@@ -1,0 +1,23 @@
+.red-color{
+    color: rgb(122, 176, 212);
+    text-decoration: overline;
+}
+#blue-heading{
+    color: rgb(64, 72, 227);
+}
+body{
+    background-color: rgb(3, 24, 24);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: times new roman;
+    font-style: italic;
+    font-weight: bold;
+}
+h2{
+    text-align: justify;
+    color: rgb(182, 202, 249);
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-indent: 50px;
+}
